@@ -46,7 +46,6 @@ RUN addgroup -g 1000 bgoldd \
   && adduser -u 1000 -G bgoldd -s /bin/sh -D bgoldd
 
 USER bgoldd
-RUN mkdir -p /home/bgoldd/.bgold
 
 # P2P & RPC
 EXPOSE 8338 8332
