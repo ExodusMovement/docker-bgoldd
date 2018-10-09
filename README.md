@@ -6,6 +6,6 @@ Every new bitcoin gold release have own branch where branch name is bitcoin gold
 
 Branches and releases:
 
-  - [0.15.2](https://github.com/ExodusMovement/docker-bitcoind/tree/0.15.2)
-    - [0.15.2-001](https://github.com/ExodusMovement/docker-bitcoind/tree/0.15.2-001)
-    - [0.15.2-002](https://github.com/ExodusMovement/docker-bitcoind/tree/0.15.2-002)
+  - [0.15.2](https://github.com/ExodusMovement/docker-bgoldd/tree/0.15.2)
+    - [0.15.2-001](https://github.com/ExodusMovement/docker-bgoldd/tree/0.15.2-001)
+    - [0.15.2-002](https://github.com/ExodusMovement/docker-bgoldd/tree/0.15.2-002)
